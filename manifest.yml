@@ -6,7 +6,7 @@ applications:
   buildpack: nodejs_buildpack
   command: npm start
   disk_quota: 1G
-  memory: 128MB
+  memory: 192MB
   domain: mybluemix.net
   host: redptechkr1
   env:
